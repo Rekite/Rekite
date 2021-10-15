@@ -5,7 +5,7 @@
 ⚡ I'm currently learning backend web development<br /><br />
 
 ### Status
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekite&hide=jupyter%20notebook)](https://github.com/Rekite/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rekite&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) 
  [![Rekite's github stats](https://github-readme-stats.vercel.app/api?username=Rekite)](https://github.com/anuraghazra/github-readme-stats)  
  <br />
  
