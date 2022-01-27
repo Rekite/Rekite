@@ -1,7 +1,7 @@
 ### Hi there I'm Rekite 👋<br />
 
 
-🌱 I'm server engineer working at Securities services Company<br />
+🌱 I'm server engineer working at LDCC (securities dept)<br />
 ⚡ I'm currently learning backend web development<br /><br />
 
 ### Status
